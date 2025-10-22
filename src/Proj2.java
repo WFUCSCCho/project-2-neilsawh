@@ -1,3 +1,9 @@
+/*
+@file: Proj2.java
+@description: Times insertions and searches in BST and AVL trees using movie data and appends results to a file
+@author: Neil Sawhney
+@date: October 21, 2025
+*/
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

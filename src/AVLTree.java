@@ -19,6 +19,13 @@
  * Implements an AVL tree.
  * Note that all "matching" is based on the compareTo method.
  */
+/*
+/*
+@file: AvlTree.java
+@description: Implements a balanced AVL tree with insert, search, and utility methods
+@author: Neil Sawhney
+@date: October 21, 2025
+*/
 class AvlTree<AnyType extends Comparable<? super AnyType>> {
     private AvlNode<AnyType> root;
 
